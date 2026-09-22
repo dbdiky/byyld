@@ -1,6 +1,6 @@
-# Ryvyl infrastructure
+# BYYLD Infrastructure
 
-Terraform for the Ryvyl fair-pay music streaming platform on AWS. Built module-first so
+Terraform for the BYYLD fair-pay music streaming platform on AWS. Built module-first so
 each piece of the architecture (networking, storage, transcoding, the API backend, CDN
 delivery, and the play-event/payout pipeline) can be reasoned about, tested, and scaled
 independently.
